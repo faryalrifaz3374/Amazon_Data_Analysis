@@ -1,6 +1,6 @@
+---
 # Amazon Data Analysis
-
-![GitHub repo size](https://img.shields.io/github/repo-size/faryalrifaz3374/Amazon_Data_Analysis) ![GitHub contributors](https://img.shields.io/github/contributors/faryalrifaz3374/Amazon_Data_Analysis) ![GitHub issues](https://img.shields.io/github/issues/faryalrifaz3374/Amazon_Data_Analysis) ![GitHub license](https://img.shields.io/github/license/faryalrifaz3374/Amazon_Data_Analysis)
+---
 
 ## Table of Contents
 - [Overview](#overview)
@@ -10,7 +10,6 @@
 - [How to Run](#how-to-run)
 - [Results/Insights](#resultsinsights)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ## Overview
 This project aims to analyze the Amazon dataset to derive insights about customer behavior, product performance, and sales trends. The ultimate goal is to enable data-driven decision-making based on the analysis conducted on the dataset.
@@ -27,9 +26,9 @@ The Jupyter Notebook includes detailed analyses with clear visualizations and in
 
 ## Setup/Requirements
 To run the notebook, make sure you have the following requirements:
-- Python 3.x
+- Python 
 - Jupyter Notebook
-- Required libraries (listed in `requirements.txt`)
+
 
 ## How to Run
 1. Clone the repository:
@@ -59,9 +58,5 @@ Amazon_Data_Analysis/
 ├── notebook.ipynb
 ├── data/
 │   └── dataset.csv
-├── requirements.txt
 └── README.md
-```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+``` 
